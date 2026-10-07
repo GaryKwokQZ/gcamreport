@@ -1,3 +1,15 @@
+# Development version
+
+- Add `v9.1` as a native GCAM reporting profile instead of modifying the
+  `v8.2` package data at run time.
+- Add the GCAM 9.1 electricity capital-cost table (26 technologies and 22
+  model years), including `SMR`, `large reactor`, and the 2021 model period.
+- Add GCAM 9.1 technology, emissions, final-energy, energy-price, water, and
+  transport compatibility mappings observed in the Zaratan workflow.
+- Keep user-created policy markets subject to the existing strict mapping and
+  `ignore` controls; the migration does not silently classify every unknown
+  market as `NoReported`.
+
 # gcamreport 1.0.0
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13711003.svg)](https://doi.org/10.5281/zenodo.13711003)

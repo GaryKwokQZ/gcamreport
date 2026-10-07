@@ -1,0 +1,573 @@
+sector,subsector,technology,year,capital.overnight
+electricity,solar,CSP,1975,1807
+electricity,solar,CSP,1990,1807
+electricity,solar,CSP,2005,1807
+electricity,solar,CSP,2010,1807
+electricity,solar,CSP,2015,1807
+electricity,solar,CSP,2021,1476
+electricity,solar,CSP,2025,1278
+electricity,solar,CSP,2030,957
+electricity,solar,CSP,2035,922
+electricity,solar,CSP,2040,888
+electricity,solar,CSP,2045,854
+electricity,solar,CSP,2050,820
+electricity,solar,CSP,2055,816
+electricity,solar,CSP,2060,812
+electricity,solar,CSP,2065,808
+electricity,solar,CSP,2070,804
+electricity,solar,CSP,2075,800
+electricity,solar,CSP,2080,796
+electricity,solar,CSP,2085,792
+electricity,solar,CSP,2090,788
+electricity,solar,CSP,2095,784
+electricity,solar,CSP,2100,780
+electricity,solar,CSP_storage,1975,2126
+electricity,solar,CSP_storage,1990,2126
+electricity,solar,CSP_storage,2005,2126
+electricity,solar,CSP_storage,2010,2126
+electricity,solar,CSP_storage,2015,2126
+electricity,solar,CSP_storage,2021,1736
+electricity,solar,CSP_storage,2025,1504
+electricity,solar,CSP_storage,2030,1125
+electricity,solar,CSP_storage,2035,1085
+electricity,solar,CSP_storage,2040,1045
+electricity,solar,CSP_storage,2045,1005
+electricity,solar,CSP_storage,2050,965
+electricity,solar,CSP_storage,2055,960
+electricity,solar,CSP_storage,2060,955
+electricity,solar,CSP_storage,2065,950
+electricity,solar,CSP_storage,2070,945
+electricity,solar,CSP_storage,2075,941
+electricity,solar,CSP_storage,2080,936
+electricity,solar,CSP_storage,2085,931
+electricity,solar,CSP_storage,2090,927
+electricity,solar,CSP_storage,2095,922
+electricity,solar,CSP_storage,2100,917
+electricity,nuclear,Gen_II_LWR,1975,1811
+electricity,nuclear,Gen_II_LWR,1990,1811
+electricity,nuclear,Gen_II_LWR,2005,1811
+electricity,nuclear,Gen_II_LWR,2010,1811
+electricity,nuclear,Gen_II_LWR,2015,1749
+electricity,nuclear,Gen_II_LWR,2021,1901
+electricity,nuclear,Gen_II_LWR,2025,1355
+electricity,nuclear,Gen_II_LWR,2030,1355
+electricity,nuclear,Gen_II_LWR,2035,1296
+electricity,nuclear,Gen_II_LWR,2040,1119
+electricity,nuclear,Gen_II_LWR,2045,1002
+electricity,nuclear,Gen_II_LWR,2050,884
+electricity,nuclear,Gen_II_LWR,2055,884
+electricity,nuclear,Gen_II_LWR,2060,884
+electricity,nuclear,Gen_II_LWR,2065,884
+electricity,nuclear,Gen_II_LWR,2070,884
+electricity,nuclear,Gen_II_LWR,2075,884
+electricity,nuclear,Gen_II_LWR,2080,884
+electricity,nuclear,Gen_II_LWR,2085,884
+electricity,nuclear,Gen_II_LWR,2090,884
+electricity,nuclear,Gen_II_LWR,2095,884
+electricity,nuclear,Gen_II_LWR,2100,884
+electricity,solar,PV,1975,1681
+electricity,solar,PV,1990,1681
+electricity,solar,PV,2005,1681
+electricity,solar,PV,2010,1681
+electricity,solar,PV,2015,752
+electricity,solar,PV,2021,317
+electricity,solar,PV,2025,312
+electricity,solar,PV,2030,246
+electricity,solar,PV,2035,180
+electricity,solar,PV,2040,164
+electricity,solar,PV,2045,148
+electricity,solar,PV,2050,132
+electricity,solar,PV,2055,131
+electricity,solar,PV,2060,130
+electricity,solar,PV,2065,130
+electricity,solar,PV,2070,129
+electricity,solar,PV,2075,129
+electricity,solar,PV,2080,128
+electricity,solar,PV,2085,127
+electricity,solar,PV,2090,127
+electricity,solar,PV,2095,126
+electricity,solar,PV,2100,125
+electricity,solar,PV_storage,1975,3043
+electricity,solar,PV_storage,1990,3043
+electricity,solar,PV_storage,2005,3043
+electricity,solar,PV_storage,2010,3043
+electricity,solar,PV_storage,2015,2114
+electricity,solar,PV_storage,2021,1679
+electricity,solar,PV_storage,2025,1408
+electricity,solar,PV_storage,2030,1165
+electricity,solar,PV_storage,2035,1028
+electricity,solar,PV_storage,2040,941
+electricity,solar,PV_storage,2045,854
+electricity,solar,PV_storage,2050,768
+electricity,solar,PV_storage,2055,764
+electricity,solar,PV_storage,2060,760
+electricity,solar,PV_storage,2065,756
+electricity,solar,PV_storage,2070,752
+electricity,solar,PV_storage,2075,749
+electricity,solar,PV_storage,2080,745
+electricity,solar,PV_storage,2085,741
+electricity,solar,PV_storage,2090,737
+electricity,solar,PV_storage,2095,734
+electricity,solar,PV_storage,2100,730
+electricity,nuclear,SMR,1975,1885
+electricity,nuclear,SMR,1990,1885
+electricity,nuclear,SMR,2005,1885
+electricity,nuclear,SMR,2010,1885
+electricity,nuclear,SMR,2015,1885
+electricity,nuclear,SMR,2021,1885
+electricity,nuclear,SMR,2025,1885
+electricity,nuclear,SMR,2030,1885
+electricity,nuclear,SMR,2035,1532
+electricity,nuclear,SMR,2040,1237
+electricity,nuclear,SMR,2045,1060
+electricity,nuclear,SMR,2050,943
+electricity,nuclear,SMR,2055,938
+electricity,nuclear,SMR,2060,933
+electricity,nuclear,SMR,2065,929
+electricity,nuclear,SMR,2070,924
+electricity,nuclear,SMR,2075,919
+electricity,nuclear,SMR,2080,915
+electricity,nuclear,SMR,2085,910
+electricity,nuclear,SMR,2090,906
+electricity,nuclear,SMR,2095,901
+electricity,nuclear,SMR,2100,897
+electricity,biomass,biomass (IGCC CCS),1975,2282
+electricity,biomass,biomass (IGCC CCS),1990,2282
+electricity,biomass,biomass (IGCC CCS),2005,2282
+electricity,biomass,biomass (IGCC CCS),2010,2282
+electricity,biomass,biomass (IGCC CCS),2015,2282
+electricity,biomass,biomass (IGCC CCS),2021,2266
+electricity,biomass,biomass (IGCC CCS),2025,2182
+electricity,biomass,biomass (IGCC CCS),2030,2109
+electricity,biomass,biomass (IGCC CCS),2035,2043
+electricity,biomass,biomass (IGCC CCS),2040,1970
+electricity,biomass,biomass (IGCC CCS),2045,1903
+electricity,biomass,biomass (IGCC CCS),2050,1843
+electricity,biomass,biomass (IGCC CCS),2055,1834
+electricity,biomass,biomass (IGCC CCS),2060,1825
+electricity,biomass,biomass (IGCC CCS),2065,1816
+electricity,biomass,biomass (IGCC CCS),2070,1807
+electricity,biomass,biomass (IGCC CCS),2075,1798
+electricity,biomass,biomass (IGCC CCS),2080,1789
+electricity,biomass,biomass (IGCC CCS),2085,1780
+electricity,biomass,biomass (IGCC CCS),2090,1771
+electricity,biomass,biomass (IGCC CCS),2095,1762
+electricity,biomass,biomass (IGCC CCS),2100,1753
+electricity,biomass,biomass (IGCC),1975,1770
+electricity,biomass,biomass (IGCC),1990,1770
+electricity,biomass,biomass (IGCC),2005,1770
+electricity,biomass,biomass (IGCC),2010,1770
+electricity,biomass,biomass (IGCC),2015,1708
+electricity,biomass,biomass (IGCC),2021,1768
+electricity,biomass,biomass (IGCC),2025,1592
+electricity,biomass,biomass (IGCC),2030,1540
+electricity,biomass,biomass (IGCC),2035,1503
+electricity,biomass,biomass (IGCC),2040,1478
+electricity,biomass,biomass (IGCC),2045,1455
+electricity,biomass,biomass (IGCC),2050,1426
+electricity,biomass,biomass (IGCC),2055,1419
+electricity,biomass,biomass (IGCC),2060,1412
+electricity,biomass,biomass (IGCC),2065,1405
+electricity,biomass,biomass (IGCC),2070,1398
+electricity,biomass,biomass (IGCC),2075,1391
+electricity,biomass,biomass (IGCC),2080,1384
+electricity,biomass,biomass (IGCC),2085,1377
+electricity,biomass,biomass (IGCC),2090,1370
+electricity,biomass,biomass (IGCC),2095,1364
+electricity,biomass,biomass (IGCC),2100,1357
+electricity,biomass,biomass (conv CCS),1975,1602
+electricity,biomass,biomass (conv CCS),1990,1602
+electricity,biomass,biomass (conv CCS),2005,1602
+electricity,biomass,biomass (conv CCS),2010,1602
+electricity,biomass,biomass (conv CCS),2015,1602
+electricity,biomass,biomass (conv CCS),2021,1586
+electricity,biomass,biomass (conv CCS),2025,1523
+electricity,biomass,biomass (conv CCS),2030,1412
+electricity,biomass,biomass (conv CCS),2035,1310
+electricity,biomass,biomass (conv CCS),2040,1214
+electricity,biomass,biomass (conv CCS),2045,1126
+electricity,biomass,biomass (conv CCS),2050,1044
+electricity,biomass,biomass (conv CCS),2055,1039
+electricity,biomass,biomass (conv CCS),2060,1034
+electricity,biomass,biomass (conv CCS),2065,1028
+electricity,biomass,biomass (conv CCS),2070,1023
+electricity,biomass,biomass (conv CCS),2075,1018
+electricity,biomass,biomass (conv CCS),2080,1013
+electricity,biomass,biomass (conv CCS),2085,1008
+electricity,biomass,biomass (conv CCS),2090,1003
+electricity,biomass,biomass (conv CCS),2095,998
+electricity,biomass,biomass (conv CCS),2100,993
+electricity,biomass,biomass (conv),1975,1114
+electricity,biomass,biomass (conv),1990,1114
+electricity,biomass,biomass (conv),2005,1114
+electricity,biomass,biomass (conv),2010,1114
+electricity,biomass,biomass (conv),2015,1097
+electricity,biomass,biomass (conv),2021,1222
+electricity,biomass,biomass (conv),2025,1028
+electricity,biomass,biomass (conv),2030,981
+electricity,biomass,biomass (conv),2035,948
+electricity,biomass,biomass (conv),2040,914
+electricity,biomass,biomass (conv),2045,883
+electricity,biomass,biomass (conv),2050,845
+electricity,biomass,biomass (conv),2055,841
+electricity,biomass,biomass (conv),2060,837
+electricity,biomass,biomass (conv),2065,833
+electricity,biomass,biomass (conv),2070,829
+electricity,biomass,biomass (conv),2075,825
+electricity,biomass,biomass (conv),2080,820
+electricity,biomass,biomass (conv),2085,816
+electricity,biomass,biomass (conv),2090,812
+electricity,biomass,biomass (conv),2095,808
+electricity,biomass,biomass (conv),2100,804
+electricity,coal,coal (IGCC CCS),1975,1888
+electricity,coal,coal (IGCC CCS),1990,1888
+electricity,coal,coal (IGCC CCS),2005,1888
+electricity,coal,coal (IGCC CCS),2010,1888
+electricity,coal,coal (IGCC CCS),2015,1888
+electricity,coal,coal (IGCC CCS),2021,1888
+electricity,coal,coal (IGCC CCS),2025,1866
+electricity,coal,coal (IGCC CCS),2030,1830
+electricity,coal,coal (IGCC CCS),2035,1794
+electricity,coal,coal (IGCC CCS),2040,1758
+electricity,coal,coal (IGCC CCS),2045,1722
+electricity,coal,coal (IGCC CCS),2050,1686
+electricity,coal,coal (IGCC CCS),2055,1677
+electricity,coal,coal (IGCC CCS),2060,1669
+electricity,coal,coal (IGCC CCS),2065,1661
+electricity,coal,coal (IGCC CCS),2070,1652
+electricity,coal,coal (IGCC CCS),2075,1644
+electricity,coal,coal (IGCC CCS),2080,1636
+electricity,coal,coal (IGCC CCS),2085,1628
+electricity,coal,coal (IGCC CCS),2090,1620
+electricity,coal,coal (IGCC CCS),2095,1611
+electricity,coal,coal (IGCC CCS),2100,1603
+electricity,coal,coal (IGCC),1975,1379
+electricity,coal,coal (IGCC),1990,1379
+electricity,coal,coal (IGCC),2005,1379
+electricity,coal,coal (IGCC),2010,1379
+electricity,coal,coal (IGCC),2015,1322
+electricity,coal,coal (IGCC),2021,1273
+electricity,coal,coal (IGCC),2025,1305
+electricity,coal,coal (IGCC),2030,1280
+electricity,coal,coal (IGCC),2035,1256
+electricity,coal,coal (IGCC),2040,1231
+electricity,coal,coal (IGCC),2045,1206
+electricity,coal,coal (IGCC),2050,1181
+electricity,coal,coal (IGCC),2055,1175
+electricity,coal,coal (IGCC),2060,1169
+electricity,coal,coal (IGCC),2065,1163
+electricity,coal,coal (IGCC),2070,1157
+electricity,coal,coal (IGCC),2075,1152
+electricity,coal,coal (IGCC),2080,1146
+electricity,coal,coal (IGCC),2085,1140
+electricity,coal,coal (IGCC),2090,1134
+electricity,coal,coal (IGCC),2095,1129
+electricity,coal,coal (IGCC),2100,1123
+electricity,coal,coal (conv pul CCS),1975,1208
+electricity,coal,coal (conv pul CCS),1990,1208
+electricity,coal,coal (conv pul CCS),2005,1208
+electricity,coal,coal (conv pul CCS),2010,1208
+electricity,coal,coal (conv pul CCS),2015,1208
+electricity,coal,coal (conv pul CCS),2021,1208
+electricity,coal,coal (conv pul CCS),2025,1208
+electricity,coal,coal (conv pul CCS),2030,1134
+electricity,coal,coal (conv pul CCS),2035,1060
+electricity,coal,coal (conv pul CCS),2040,1002
+electricity,coal,coal (conv pul CCS),2045,944
+electricity,coal,coal (conv pul CCS),2050,887
+electricity,coal,coal (conv pul CCS),2055,882
+electricity,coal,coal (conv pul CCS),2060,878
+electricity,coal,coal (conv pul CCS),2065,873
+electricity,coal,coal (conv pul CCS),2070,869
+electricity,coal,coal (conv pul CCS),2075,865
+electricity,coal,coal (conv pul CCS),2080,860
+electricity,coal,coal (conv pul CCS),2085,856
+electricity,coal,coal (conv pul CCS),2090,852
+electricity,coal,coal (conv pul CCS),2095,847
+electricity,coal,coal (conv pul CCS),2100,843
+electricity,coal,coal (conv pul),1975,723
+electricity,coal,coal (conv pul),1990,723
+electricity,coal,coal (conv pul),2005,723
+electricity,coal,coal (conv pul),2010,723
+electricity,coal,coal (conv pul),2015,712
+electricity,coal,coal (conv pul),2021,727
+electricity,coal,coal (conv pul),2025,742
+electricity,coal,coal (conv pul),2030,721
+electricity,coal,coal (conv pul),2035,701
+electricity,coal,coal (conv pul),2040,667
+electricity,coal,coal (conv pul),2045,633
+electricity,coal,coal (conv pul),2050,600
+electricity,coal,coal (conv pul),2055,597
+electricity,coal,coal (conv pul),2060,594
+electricity,coal,coal (conv pul),2065,591
+electricity,coal,coal (conv pul),2070,588
+electricity,coal,coal (conv pul),2075,585
+electricity,coal,coal (conv pul),2080,582
+electricity,coal,coal (conv pul),2085,579
+electricity,coal,coal (conv pul),2090,576
+electricity,coal,coal (conv pul),2095,573
+electricity,coal,coal (conv pul),2100,571
+electricity,gas,gas (CC CCS),1975,606
+electricity,gas,gas (CC CCS),1990,606
+electricity,gas,gas (CC CCS),2005,606
+electricity,gas,gas (CC CCS),2010,606
+electricity,gas,gas (CC CCS),2015,606
+electricity,gas,gas (CC CCS),2021,606
+electricity,gas,gas (CC CCS),2025,590
+electricity,gas,gas (CC CCS),2030,530
+electricity,gas,gas (CC CCS),2035,471
+electricity,gas,gas (CC CCS),2040,444
+electricity,gas,gas (CC CCS),2045,417
+electricity,gas,gas (CC CCS),2050,390
+electricity,gas,gas (CC CCS),2055,388
+electricity,gas,gas (CC CCS),2060,386
+electricity,gas,gas (CC CCS),2065,384
+electricity,gas,gas (CC CCS),2070,382
+electricity,gas,gas (CC CCS),2075,380
+electricity,gas,gas (CC CCS),2080,378
+electricity,gas,gas (CC CCS),2085,377
+electricity,gas,gas (CC CCS),2090,375
+electricity,gas,gas (CC CCS),2095,373
+electricity,gas,gas (CC CCS),2100,371
+electricity,gas,gas (CC),1975,269
+electricity,gas,gas (CC),1990,269
+electricity,gas,gas (CC),2005,269
+electricity,gas,gas (CC),2010,269
+electricity,gas,gas (CC),2015,264
+electricity,gas,gas (CC),2021,284
+electricity,gas,gas (CC),2025,286
+electricity,gas,gas (CC),2030,273
+electricity,gas,gas (CC),2035,261
+electricity,gas,gas (CC),2040,250
+electricity,gas,gas (CC),2045,239
+electricity,gas,gas (CC),2050,228
+electricity,gas,gas (CC),2055,227
+electricity,gas,gas (CC),2060,226
+electricity,gas,gas (CC),2065,225
+electricity,gas,gas (CC),2070,224
+electricity,gas,gas (CC),2075,223
+electricity,gas,gas (CC),2080,222
+electricity,gas,gas (CC),2085,220
+electricity,gas,gas (CC),2090,219
+electricity,gas,gas (CC),2095,218
+electricity,gas,gas (CC),2100,217
+electricity,gas,gas (steam/CT),1975,250
+electricity,gas,gas (steam/CT),1990,250
+electricity,gas,gas (steam/CT),2005,250
+electricity,gas,gas (steam/CT),2010,250
+electricity,gas,gas (steam/CT),2015,239
+electricity,gas,gas (steam/CT),2021,255
+electricity,gas,gas (steam/CT),2025,255
+electricity,gas,gas (steam/CT),2030,245
+electricity,gas,gas (steam/CT),2035,235
+electricity,gas,gas (steam/CT),2040,224
+electricity,gas,gas (steam/CT),2045,214
+electricity,gas,gas (steam/CT),2050,204
+electricity,gas,gas (steam/CT),2055,203
+electricity,gas,gas (steam/CT),2060,202
+electricity,gas,gas (steam/CT),2065,201
+electricity,gas,gas (steam/CT),2070,200
+electricity,gas,gas (steam/CT),2075,199
+electricity,gas,gas (steam/CT),2080,198
+electricity,gas,gas (steam/CT),2085,197
+electricity,gas,gas (steam/CT),2090,196
+electricity,gas,gas (steam/CT),2095,195
+electricity,gas,gas (steam/CT),2100,194
+electricity,geothermal,geothermal,1975,1127
+electricity,geothermal,geothermal,1990,1127
+electricity,geothermal,geothermal,2005,1127
+electricity,geothermal,geothermal,2010,1127
+electricity,geothermal,geothermal,2015,1127
+electricity,geothermal,geothermal,2021,1127
+electricity,geothermal,geothermal,2025,1074
+electricity,geothermal,geothermal,2030,1016
+electricity,geothermal,geothermal,2035,973
+electricity,geothermal,geothermal,2040,948
+electricity,geothermal,geothermal,2045,925
+electricity,geothermal,geothermal,2050,902
+electricity,geothermal,geothermal,2055,898
+electricity,geothermal,geothermal,2060,893
+electricity,geothermal,geothermal,2065,889
+electricity,geothermal,geothermal,2070,884
+electricity,geothermal,geothermal,2075,880
+electricity,geothermal,geothermal,2080,875
+electricity,geothermal,geothermal,2085,871
+electricity,geothermal,geothermal,2090,867
+electricity,geothermal,geothermal,2095,862
+electricity,geothermal,geothermal,2100,858
+electricity,nuclear,large reactor,1975,1811
+electricity,nuclear,large reactor,1990,1811
+electricity,nuclear,large reactor,2005,1811
+electricity,nuclear,large reactor,2010,1811
+electricity,nuclear,large reactor,2015,1749
+electricity,nuclear,large reactor,2021,1901
+electricity,nuclear,large reactor,2025,1355
+electricity,nuclear,large reactor,2030,1355
+electricity,nuclear,large reactor,2035,1296
+electricity,nuclear,large reactor,2040,1119
+electricity,nuclear,large reactor,2045,1002
+electricity,nuclear,large reactor,2050,884
+electricity,nuclear,large reactor,2055,879
+electricity,nuclear,large reactor,2060,875
+electricity,nuclear,large reactor,2065,871
+electricity,nuclear,large reactor,2070,866
+electricity,nuclear,large reactor,2075,862
+electricity,nuclear,large reactor,2080,858
+electricity,nuclear,large reactor,2085,853
+electricity,nuclear,large reactor,2090,849
+electricity,nuclear,large reactor,2095,845
+electricity,nuclear,large reactor,2100,841
+electricity,refined liquids,refined liquids (CC CCS),1975,606
+electricity,refined liquids,refined liquids (CC CCS),1990,606
+electricity,refined liquids,refined liquids (CC CCS),2005,606
+electricity,refined liquids,refined liquids (CC CCS),2010,606
+electricity,refined liquids,refined liquids (CC CCS),2015,606
+electricity,refined liquids,refined liquids (CC CCS),2021,606
+electricity,refined liquids,refined liquids (CC CCS),2025,590
+electricity,refined liquids,refined liquids (CC CCS),2030,530
+electricity,refined liquids,refined liquids (CC CCS),2035,471
+electricity,refined liquids,refined liquids (CC CCS),2040,444
+electricity,refined liquids,refined liquids (CC CCS),2045,417
+electricity,refined liquids,refined liquids (CC CCS),2050,390
+electricity,refined liquids,refined liquids (CC CCS),2055,388
+electricity,refined liquids,refined liquids (CC CCS),2060,386
+electricity,refined liquids,refined liquids (CC CCS),2065,384
+electricity,refined liquids,refined liquids (CC CCS),2070,382
+electricity,refined liquids,refined liquids (CC CCS),2075,380
+electricity,refined liquids,refined liquids (CC CCS),2080,378
+electricity,refined liquids,refined liquids (CC CCS),2085,377
+electricity,refined liquids,refined liquids (CC CCS),2090,375
+electricity,refined liquids,refined liquids (CC CCS),2095,373
+electricity,refined liquids,refined liquids (CC CCS),2100,371
+electricity,refined liquids,refined liquids (CC),1975,269
+electricity,refined liquids,refined liquids (CC),1990,269
+electricity,refined liquids,refined liquids (CC),2005,269
+electricity,refined liquids,refined liquids (CC),2010,269
+electricity,refined liquids,refined liquids (CC),2015,264
+electricity,refined liquids,refined liquids (CC),2021,284
+electricity,refined liquids,refined liquids (CC),2025,286
+electricity,refined liquids,refined liquids (CC),2030,273
+electricity,refined liquids,refined liquids (CC),2035,261
+electricity,refined liquids,refined liquids (CC),2040,250
+electricity,refined liquids,refined liquids (CC),2045,239
+electricity,refined liquids,refined liquids (CC),2050,228
+electricity,refined liquids,refined liquids (CC),2055,227
+electricity,refined liquids,refined liquids (CC),2060,226
+electricity,refined liquids,refined liquids (CC),2065,225
+electricity,refined liquids,refined liquids (CC),2070,224
+electricity,refined liquids,refined liquids (CC),2075,223
+electricity,refined liquids,refined liquids (CC),2080,222
+electricity,refined liquids,refined liquids (CC),2085,220
+electricity,refined liquids,refined liquids (CC),2090,219
+electricity,refined liquids,refined liquids (CC),2095,218
+electricity,refined liquids,refined liquids (CC),2100,217
+electricity,refined liquids,refined liquids (steam/CT),1975,250
+electricity,refined liquids,refined liquids (steam/CT),1990,250
+electricity,refined liquids,refined liquids (steam/CT),2005,250
+electricity,refined liquids,refined liquids (steam/CT),2010,250
+electricity,refined liquids,refined liquids (steam/CT),2015,239
+electricity,refined liquids,refined liquids (steam/CT),2021,255
+electricity,refined liquids,refined liquids (steam/CT),2025,255
+electricity,refined liquids,refined liquids (steam/CT),2030,245
+electricity,refined liquids,refined liquids (steam/CT),2035,235
+electricity,refined liquids,refined liquids (steam/CT),2040,224
+electricity,refined liquids,refined liquids (steam/CT),2045,214
+electricity,refined liquids,refined liquids (steam/CT),2050,204
+electricity,refined liquids,refined liquids (steam/CT),2055,203
+electricity,refined liquids,refined liquids (steam/CT),2060,202
+electricity,refined liquids,refined liquids (steam/CT),2065,201
+electricity,refined liquids,refined liquids (steam/CT),2070,200
+electricity,refined liquids,refined liquids (steam/CT),2075,199
+electricity,refined liquids,refined liquids (steam/CT),2080,198
+electricity,refined liquids,refined liquids (steam/CT),2085,197
+electricity,refined liquids,refined liquids (steam/CT),2090,196
+electricity,refined liquids,refined liquids (steam/CT),2095,195
+electricity,refined liquids,refined liquids (steam/CT),2100,194
+elect_td_bld,rooftop_pv,rooftop_pv,1975,609
+elect_td_bld,rooftop_pv,rooftop_pv,1990,609
+elect_td_bld,rooftop_pv,rooftop_pv,2005,609
+elect_td_bld,rooftop_pv,rooftop_pv,2010,609
+elect_td_bld,rooftop_pv,rooftop_pv,2015,609
+elect_td_bld,rooftop_pv,rooftop_pv,2021,609
+elect_td_bld,rooftop_pv,rooftop_pv,2025,495
+elect_td_bld,rooftop_pv,rooftop_pv,2030,418
+elect_td_bld,rooftop_pv,rooftop_pv,2035,341
+elect_td_bld,rooftop_pv,rooftop_pv,2040,310
+elect_td_bld,rooftop_pv,rooftop_pv,2045,279
+elect_td_bld,rooftop_pv,rooftop_pv,2050,248
+elect_td_bld,rooftop_pv,rooftop_pv,2055,247
+elect_td_bld,rooftop_pv,rooftop_pv,2060,245
+elect_td_bld,rooftop_pv,rooftop_pv,2065,244
+elect_td_bld,rooftop_pv,rooftop_pv,2070,243
+elect_td_bld,rooftop_pv,rooftop_pv,2075,242
+elect_td_bld,rooftop_pv,rooftop_pv,2080,241
+elect_td_bld,rooftop_pv,rooftop_pv,2085,239
+elect_td_bld,rooftop_pv,rooftop_pv,2090,238
+elect_td_bld,rooftop_pv,rooftop_pv,2095,237
+elect_td_bld,rooftop_pv,rooftop_pv,2100,236
+electricity,wind,wind,1975,622
+electricity,wind,wind,1990,622
+electricity,wind,wind,2005,622
+electricity,wind,wind,2010,622
+electricity,wind,wind,2015,450
+electricity,wind,wind,2021,327
+electricity,wind,wind,2025,325
+electricity,wind,wind,2030,289
+electricity,wind,wind,2035,273
+electricity,wind,wind,2040,257
+electricity,wind,wind,2045,241
+electricity,wind,wind,2050,224
+electricity,wind,wind,2055,223
+electricity,wind,wind,2060,222
+electricity,wind,wind,2065,221
+electricity,wind,wind,2070,220
+electricity,wind,wind,2075,219
+electricity,wind,wind,2080,218
+electricity,wind,wind,2085,217
+electricity,wind,wind,2090,215
+electricity,wind,wind,2095,214
+electricity,wind,wind,2100,213
+electricity,wind,wind_offshore,1975,1234
+electricity,wind,wind_offshore,1990,1234
+electricity,wind,wind_offshore,2005,1234
+electricity,wind,wind_offshore,2010,1234
+electricity,wind,wind_offshore,2015,1234
+electricity,wind,wind_offshore,2021,1234
+electricity,wind,wind_offshore,2025,1039
+electricity,wind,wind_offshore,2030,786
+electricity,wind,wind_offshore,2035,607
+electricity,wind,wind_offshore,2040,584
+electricity,wind,wind_offshore,2045,567
+electricity,wind,wind_offshore,2050,553
+electricity,wind,wind_offshore,2055,551
+electricity,wind,wind_offshore,2060,548
+electricity,wind,wind_offshore,2065,545
+electricity,wind,wind_offshore,2070,542
+electricity,wind,wind_offshore,2075,540
+electricity,wind,wind_offshore,2080,537
+electricity,wind,wind_offshore,2085,534
+electricity,wind,wind_offshore,2090,532
+electricity,wind,wind_offshore,2095,529
+electricity,wind,wind_offshore,2100,526
+electricity,wind,wind_storage,1975,1984
+electricity,wind,wind_storage,1990,1984
+electricity,wind,wind_storage,2005,1984
+electricity,wind,wind_storage,2010,1984
+electricity,wind,wind_storage,2015,1812
+electricity,wind,wind_storage,2021,1689
+electricity,wind,wind_storage,2025,1422
+electricity,wind,wind_storage,2030,1209
+electricity,wind,wind_storage,2035,1121
+electricity,wind,wind_storage,2040,1034
+electricity,wind,wind_storage,2045,947
+electricity,wind,wind_storage,2050,860
+electricity,wind,wind_storage,2055,856
+electricity,wind,wind_storage,2060,851
+electricity,wind,wind_storage,2065,847
+electricity,wind,wind_storage,2070,843
+electricity,wind,wind_storage,2075,839
+electricity,wind,wind_storage,2080,835
+electricity,wind,wind_storage,2085,830
+electricity,wind,wind_storage,2090,826
+electricity,wind,wind_storage,2095,822
+electricity,wind,wind_storage,2100,818
